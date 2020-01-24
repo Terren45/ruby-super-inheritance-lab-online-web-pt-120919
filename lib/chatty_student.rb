@@ -10,4 +10,3 @@ class ChattyStudent
       super
   end
   
-end
